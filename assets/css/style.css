@@ -537,11 +537,11 @@ h6 {
 }
 
 #hero .btn-watch-video:hover {
-  color: #106eea;
+  color: #f38020;
 }
 
 #hero .btn-watch-video:hover i {
-  color: #3b8af2;
+  color: #f38020;
 }
 
 @media (min-width: 1024px) {
@@ -1614,7 +1614,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #3b8af2;
+  background: #f38020;
 }
 
 @keyframes animate-loading {
